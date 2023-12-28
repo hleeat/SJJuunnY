@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I'm Jun.
-- I’m currently learning Front-end developing.
-- [![Solved.ac
+- I’m currently learning Front-end developing.  
+[![Solved.ac
 yooseungjun0415](http://mazassumnida.wtf/api/v2/generate_badge?boj=yooseungjun0415)](https://solved.ac/yooseungjun0415)
 
 <!--
