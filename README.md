@@ -2,7 +2,7 @@
 - I'm Jun.
 - I’m currently learning Front-end developing.
 [![Solved.ac
-yooseungjun0415](http://mazassumnida.wtf/api/v2/generate_badge?boj={yooseungjun0415})](https://solved.ac/{yooseungjun0415})
+yooseungjun0415](http://mazassumnida.wtf/api/v2/generate_badge?boj=yooseungjun0415)](https://solved.ac/yooseungjun0415)
 
 <!--
 **SJJuunnY/SJJuunnY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
